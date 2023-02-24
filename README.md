@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @arafatrased
 - 👀 I’m interested in Programming and Cybersecurity
-- 🌱 I’m currently learning Pyhton and VBA
+- 🌱 I’m currently i am working on Pyhton and Django
 - 💞️ I’m looking to collaborate on Data Science and Analytics
 - 📫 How to reach me : mail me 
 
