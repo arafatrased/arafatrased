@@ -5,6 +5,9 @@
 ###
 
 <h1 align="center">Arafat Rased</h1>
+<h4 align="center">Email: arafatrased89@gmail.com</h4>
+<h4 align="center">Phone: 01639199519</h4>
+
 
 ###
 
